@@ -1,0 +1,49 @@
+[
+  {
+    "id":"1",
+    "title":"The Self Help Book: 6 Practical Ways to Never Stop Growing",
+    "author":"Jared Graybeal",
+    "imgUrl":"https://m.media-amazon.com/images/I/41CF-H02R9L.jpg"
+  },
+  {
+    "id":"2",
+    "title":"The Rudest Book Ever",
+    "author":"Shwetabh Gangwar",
+    "imgUrl":"https://m.media-amazon.com/images/I/51mR4nQsP-L.jpg"
+  },
+  {
+    "id":"3",
+    "title":"The 5 A.M. Club",
+    "author":"Robin Sharma",
+    "imgUrl":"https://m.media-amazon.com/images/I/41Ur6jgx9KL.jpg"
+  },
+  {
+    "id":"4",
+    "title":"The Adventures of Amina Al-Sirafi",
+    "author":"Shannon Chakraborty",
+    "imgUrl":"https://m.media-amazon.com/images/I/911Rye7gXCL._AC_UY218_.jpg"
+  },
+  {
+    "id":"5",
+    "title":"Sikkim: A History of Intrigue and Alliance",
+    "author":"Preet Mohan Singh Malik",
+    "imgUrl":"https://m.media-amazon.com/images/I/91ArYbnTRXS._AC_UY218_.jpg"
+  },
+  {
+    "id":"6",
+    "title":"5 Secret Strategies of Kindle Publishing",
+    "author":"Anita Nipane",
+    "imgUrl":"https://m.media-amazon.com/images/I/71JU2gPrkHL._AC_UY218_.jpg"
+  },
+  {
+    "id":"7",
+    "title":"The Psychology of Money",
+    "author":"Morgan Housel",
+    "imgUrl":"https://images-eu.ssl-images-amazon.com/images/I/71g2ednj0JL._AC_UL600_SR600,400_.jpg"
+  },{
+    "id":"8",
+    "title":"Shrimad Bhagwat Geeta Yatharoop",
+    "author":"A.C. Bhaktivendanta Swami Prabhupada",
+    "imgUrl":"https://images-eu.ssl-images-amazon.com/images/I/91msEbTletL._AC_UL600_SR600,400_.jpg"
+  }
+]
