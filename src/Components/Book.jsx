@@ -19,7 +19,9 @@ const Book = (props) => {
       <h1 className="text-left font-sans font-semibold pl-2 text-sm text-[#0C778A]">
         {props.title}
       </h1>
-      <h4 className="font-sans font-bold text-xs text-left pl-2 text-[#0C778A]">
+      <h4 onClick={()=>{
+        console.log(props.title);
+      }} className="font-sans font-bold text-xs text-left pl-2 text-[#0C778A]">
         {">"}
         {props.author}
       </h4>
